@@ -1,7 +1,6 @@
 { name = "spec-golden"
 , dependencies =
   [ "aff"
-  , "console"
   , "effect"
   , "either"
   , "foldable-traversable"
