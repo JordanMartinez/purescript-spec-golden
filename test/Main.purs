@@ -10,7 +10,7 @@ import Node.FS.Aff as FSA
 import Node.Path as Path
 import Test.Spec (it)
 import Test.Spec.Assertions (fail)
-import Test.Spec.Assertions.Golden (shouldEqualFile, shouldEqualFixture, shouldEqualFixture')
+import Test.Spec.Golden.Assertions (shouldEqualFile, shouldEqualFixture, shouldEqualFixture')
 import Test.Spec.Reporter (consoleReporter)
 import Test.Spec.Runner (runSpec)
 

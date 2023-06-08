@@ -1,4 +1,4 @@
-module Test.Spec.Assertions.Golden where
+module Test.Spec.Golden.Assertions where
 
 import Prelude
 
